@@ -1,0 +1,4 @@
+"bus_id","bus_number","route","start_point","end_point","next_stop","scheduled_time","status","latitude","longitude"
+"BUS001","TN01AB1234","21","Central","College","Main Road","08:30 AM","Running",13.0827,80.2707
+"BUS002","TN01AB5678","15","Airport","Central","Railway Station","09:00 AM","Delayed",13.0604,80.2496
+"BUS003","TN01AB9012","27","Market","Bus Stand","Hospital","09:30 AM","Running",13.0878,80.2785
